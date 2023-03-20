@@ -11,4 +11,3 @@ export default function About() {
     </div>
   )
 }
-//hi vijayendra alias ganja
